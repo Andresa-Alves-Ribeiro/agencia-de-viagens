@@ -14,8 +14,7 @@
 &nbsp;
 
 **Desktop View**
-![troca](https://user-images.githubusercontent.com/94997593/236062829-1e56aec8-fe80-4a43-8af7-95a7e1e67ccf.png)
-
+![web](https://user-images.githubusercontent.com/94997593/236955909-2ee8122b-e835-415f-a4b1-61b0a4bcca62.png)
 
 
 ![177207013-819fb083-1dd3-4542-b138-3329028645d0](https://user-images.githubusercontent.com/94997593/188252911-ed40392a-da73-4534-9364-0fc8c25b8446.png)
